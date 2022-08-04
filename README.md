@@ -1,4 +1,2 @@
 # 说明
-原始域名：ptshu.github.io<br>
-绑定域名：www.ptsh.cf<br>
-管理地址：https://github.com/ptshu/<br>
+f.ptsh.cf
